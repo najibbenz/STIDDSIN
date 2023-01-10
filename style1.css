@@ -1,0 +1,71 @@
+h1 {
+
+    color : red;
+
+
+}
+
+strong{ 
+
+    color: blue;
+}
+
+html{background-color: white }
+
+header{
+
+      background-color: white;
+      text-align:center;
+
+}
+
+#section_1{
+       
+       border-top: solid 10px #FFD2FA;
+       background-color:#C39BD3 ;
+       border-radius:5px;
+       margin-left: 250px;
+
+}
+
+#section_2{
+      background-color: #C39BD3;
+      border-radius:5px;
+      margin-left: 250px;
+
+}
+
+
+
+nav {
+    max-width: 240px;
+    border: solid red;
+    float: left;
+    
+     
+
+}
+
+
+html {
+  background-color: #FFD2FA;
+}
+
+
+
+img {
+  max-height: 500px;
+  max-width: 800px;
+}
+
+
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #b3e5fc;
+    color: #fff;
+}
